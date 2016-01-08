@@ -1,0 +1,109 @@
+body {
+	background-color:#F7F7F7;
+}
+fieldset {
+	border:1px dashed #CCC;
+	padding:10px;
+}
+.simplebox
+{
+	border: 1px solid #888;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border-width:2px;
+	border-color:black;
+	background-color: #fff;
+		margin-left: 480px;
+		margin-top:100px;
+		padding-left: 40px;
+		padding-bottom:10px;
+		height:inherit;
+		width:300px;
+}
+.ansbox
+{
+	border: 1px solid #888;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border-width:2px;
+	border-color:black;
+	background-color: #fff;
+		margin-left: 300px;
+		margin-top:10px;
+		padding-left: 30px;
+		padding-right: 30px;
+		height:inherit;
+		width:700px;
+
+}
+.colstitle
+{
+	float:left;
+	width:160px;
+	border:0px solid black;
+	border-left:0px;
+	text-align:center;
+	background:blue;
+	color:white;
+}
+
+.rowtitle
+{
+	width:700px;
+	height:30px;
+	background-color:blue;
+	border:2px solid white;
+}
+
+
+.cols
+{
+	float:left;
+	width:160px;
+	border:0px solid black;
+	border-left:0px;
+	text-align:center;
+        height: inherit;
+}
+
+.row
+{
+	width:700px;
+	height:30px;
+	background-color:white;
+	border:2px solid white;
+}
+
+.rowque
+{
+	width:700px;
+	height:inherit;
+	background-color:white;
+	border:2px solid white;
+}
+
+.rowans
+{
+	width:700px;
+	height:30px;
+	background-color:white;
+	color:red;
+	border:2px solid white;
+}
+
+.box
+{
+	border: 1px solid #888;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-color: #fff;
+	margin-left: 300px;
+		margin-top:10px;
+		padding-left: 30px;
+		padding-right: 30px;
+		height:inherit;
+		width:700px;
+}
